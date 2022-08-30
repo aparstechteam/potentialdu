@@ -1,4 +1,4 @@
-import{r as l,o as t,c as s,a as e,b as a,w as c,d as o}from"./index.06ad8f59.js";const r={class:"text-gray-900"},_={class:"container py-10 mx-auto text-center min-h-screen grid place-items-center"},d={class:"max-w-lg rounded-2xl mx-auto p-3 space-y-5"},h=e("h1",{class:"text-2xl"},"Potential du'ian hunt",-1),u=e("h3",null,"22 Batch",-1),m={key:0,class:"px-3"},p=e("br",null,null,-1),x=e("h2",{class:"text-red-500 font-semibold text-lg"}," Marks Distribution ",-1),f=e("pre",null,`
+import{r as l,o as t,c as s,a as e,b as a,w as c,d as o}from"./index.b33537a5.js";const r={class:"text-gray-900"},_={class:"container py-10 mx-auto text-center min-h-screen grid place-items-center"},d={class:"max-w-lg rounded-2xl mx-auto p-3 space-y-5"},h=e("h1",{class:"text-2xl"},"Potential du'ian hunt",-1),u=e("h3",null,"22 Batch",-1),m={key:0,class:"px-3"},p=e("br",null,null,-1),x=e("h2",{class:"text-red-500 font-semibold text-lg"}," Marks Distribution ",-1),f=e("pre",null,`
 Physics 15
 Chemistry 15
 Math 15
